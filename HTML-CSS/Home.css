@@ -1,0 +1,154 @@
+.title
+{
+    position: absolute;
+    margin-top: -529px;
+    margin-left: 108px;
+    font-size: 19px;
+    font-family: '-webkit-pictograph';
+    color: white;
+}
+.subtitle
+{
+    position: absolute;
+    margin-left: 103px;
+    margin-top: -437px;
+    font-size: 69px;
+    font-family: '-webkit-pictograph';
+    color: white;
+}
+.quote
+{   
+    position: absolute;
+    margin-left: 103px;
+    margin-top: -225px;
+    font-size: 20px;
+     font-family: '-webkit-pictograph';
+    color: white;
+}
+.block{
+
+    width: 1300px;
+    height: 488px;
+}
+.image
+{
+    margin-left: 50px;
+    margin-top: 68px;
+    width: 266px;
+    border-radius: 148px;
+
+}
+.image-1
+{
+    margin-left: 373px;
+    margin-top: -312px;
+    width: 266px;
+    border-radius: 149px;
+    position: absolute;
+}
+.image-2
+{
+    margin-left: 683px;
+    margin-top: -309px;
+    width: 266px;
+    border-radius: 155px;
+    position: absolute;
+}
+.image-3
+{
+    margin-left: 997px;
+    margin-top: -308px;
+    width: 266px;
+    border-radius: 161px;
+    position: absolute;
+}
+.block-2{
+
+    width: 1341px;
+    height: 457px;
+    background-color:#00632c;
+    margin-bottom: 68px;
+}
+.Choose{
+    position: absolute;
+    margin-top: -397px;
+    color: white;
+    margin-left: 693px;
+    font-size: 33px;
+}
+.block-3{
+
+    width: 1341px;
+    height: 457px;
+    margin-bottom: 68px;
+    
+}
+.football
+{
+    font-size: 77px;
+    color: #5e9319;
+    margin-left: 14%;
+    margin-top: 7%;
+}
+.trophy{
+    font-size: 77px;
+    color: #5e9319;
+    margin-left: 49%;
+    margin-top: -18%;
+}
+.grav{
+    font-size: 77px;
+    color: #5e9319;
+    margin-left: 77%;
+    margin-top: -16%;
+}
+.exp{
+    margin-left: 176px;
+    margin-top: 27px;
+}
+.award{
+    margin-left: 665px;
+    margin-top: -132px;
+}
+.guide
+{
+    margin-left: 77%;
+    margin-top: -107px;
+}
+.club
+{
+    margin-left: 6%;
+    width: 368px;
+}
+.club2
+{
+    margin-left: 41%;
+    width: 361px;
+}
+.club3
+{
+    margin-left: 72%;
+    width: 328px;
+}
+.block-4
+{
+    width: 1341px;
+    height: 265px;
+    /* background-color: #00632c; */
+    margin-bottom: 29px;
+}
+.block-5
+{
+    width: 1341px;
+    height: 265px;
+    background-color: #777777;
+    margin-bottom: 29px;
+}
+.sec{
+    position: absolute;
+    margin-top: -323px;
+    width: 512px;
+    margin-left: 683px;
+    color: white;
+    /* font-family: 'Times New Roman', Times, serif; */
+}

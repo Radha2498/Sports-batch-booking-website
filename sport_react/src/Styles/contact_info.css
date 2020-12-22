@@ -1,0 +1,242 @@
+.box-1{
+    
+        width: 130px;
+        height: 73px;
+    
+}
+.title
+{
+    position: absolute;
+    margin-top: -529px;
+    margin-left: 108px;
+    font-size: 19px;
+    font-family: '-webkit-pictograph';
+    color: white;
+}
+.subtitle
+{
+    position: absolute;
+    margin-left: 103px;
+    margin-top: -437px;
+    font-size: 69px;
+    font-family: '-webkit-pictograph';
+    color: white;
+}
+.quote
+{   
+    position: absolute;
+    margin-left: 103px;
+    margin-top: -225px;
+    font-size: 20px;
+     font-family: '-webkit-pictograph';
+    color: white;
+}
+.block{
+
+    width: 1300px;
+    height: 488px;
+}
+.image
+{
+    margin-left: 50px;
+    margin-top: 68px;
+    width: 266px;
+    border-radius: 148px;
+
+}
+.image-1
+{
+    margin-left: 373px;
+    margin-top: -312px;
+    width: 266px;
+    border-radius: 149px;
+    position: absolute;
+}
+.image-2
+{
+    margin-left: 683px;
+    margin-top: -309px;
+    width: 266px;
+    border-radius: 155px;
+    position: absolute;
+}
+.image-3
+{
+    margin-left: 997px;
+    margin-top: -308px;
+    width: 266px;
+    border-radius: 161px;
+    position: absolute;
+}
+.block-2{
+
+    width: 1341px;
+    height: 457px;
+    background-color:#00632c;
+    margin-bottom: 68px;
+}
+.Choose{
+    position: absolute;
+    margin-top: -397px;
+    color: white;
+    margin-left: 693px;
+    font-size: 33px;
+}
+.block-3{
+
+    width: 1341px;
+    height: 457px;
+    margin-bottom: 68px;
+    
+}
+.football
+{
+    font-size: 77px;
+    color: #5e9319;
+    margin-left: 14%;
+    margin-top: 7%;
+}
+.trophy{
+    font-size: 77px;
+    color: #5e9319;
+    margin-left: 49%;
+    margin-top: -18%;
+    display: block;
+}
+.grav{
+    font-size: 77px;
+    color: #5e9319;
+    margin-left: 77%;
+    margin-top: -16%;
+    display: block;
+}
+.exp{
+    margin-left: 176px;
+    margin-top: 27px;
+}
+.award{
+    margin-left: 665px;
+    margin-top: 34px;
+}
+.guide
+{
+    margin-left: 77%;
+    margin-top: 23px;
+}
+.club
+{
+    margin-left: 6%;
+    width: 368px;
+}
+.club2
+{
+    margin-left: 41%;
+    width: 361px;
+}
+.club3
+{
+    margin-left: 73%;
+    width: 328px;
+}
+.block-4
+{
+    width: 1341px;
+    height: 265px;
+    /* background-color: #00632c; */
+    margin-bottom: 29px;
+}
+.block-5
+{
+    width: 1341px;
+    height: 265px;
+    background-color: #1b280a;
+    margin-bottom: 29px;
+}
+.sec{
+    position: absolute;
+    margin-top: -323px;
+    width: 512px;
+    margin-left: 683px;
+    color: white;
+    /* font-family: 'Times New Roman', Times, serif; */
+}
+.block-6
+{
+    width: 1341px;
+    height:365px;
+    background-color:darkslategrey;
+    margin-bottom: 35px;
+    margin-top: -30px;
+}
+.club-1{
+color: orange;
+padding: 38px;
+
+}
+.a1
+{
+    color: white;
+    width: 23%;
+    padding-left: 42px;
+    /* font-size: 21px */
+}
+.club-2
+{
+    color: orange;
+    margin-left: 40%;
+    margin-top: -215px;
+}
+.time
+{
+    color: white;
+    margin-left: 540px;
+    margin-top: 33px;
+    font-size: 18px;
+}
+.twitter
+{
+    color: white;
+    margin-left: 71%;
+    margin-top: 22px;
+}
+.block-1
+{
+    width: 130px;
+    height: 73px;
+}
+.ph
+{
+    margin-top: -45px;
+    margin-left: 586%;
+}
+.ad
+{
+    margin-left: 730%;
+    margin-top: -25px;
+    width: 155px;
+}
+.t{
+    margin-left: 890%;
+    margin-top: -25px;
+    width: 170px;
+
+}
+.sportspirit
+{
+    padding-left: 37px;
+    padding-top: 4px;
+    font-family: math;
+}
+.boxx
+{
+        width:1300;
+        height:400px;
+        background-color: yellowgreen;
+}
+.map{
+    width: 400px;
+    height: 440px;
+    margin-top: 118px;
+    margin-left: 142px;
+    margin-bottom: 7px;
+}
