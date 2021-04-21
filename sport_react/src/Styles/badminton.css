@@ -1,0 +1,249 @@
+.badminton_firsttitle
+{
+    /* position: absolute;
+    margin-top: -23%;
+    margin-left: 3%;
+    color: white;
+    font-size: 49px; */
+
+    position: absolute;
+    margin-top: -23%;
+    margin-left: 46%;
+    color: white;
+    font-size: 49px;
+    font-family: 'FontAwesome';
+}
+.badminton_subtitle{
+    /* position: absolute;
+    margin-top: -17%;
+    margin-left: 3%;
+    color: white;
+    font-size: 17px;
+    width: 47% */
+
+    position: absolute;
+    margin-top: -17%;
+    color: white;
+    font-size: 17px;
+    width: 47%;
+
+}
+.blearnnew
+{
+    /* margin-top: -22%;
+    margin-right: 49%; */
+    margin-top: -21%;
+    margin-left: 47%
+}
+.carousel .thumb
+{
+    display: none;
+}
+.badminton_secondtitle
+{
+    position: absolute;
+    margin-top: -23%;
+    margin-left: 3%;
+    color: white;
+    font-size: 49px;
+}
+.badminton_newsubtitle{
+    position: absolute;
+    margin-top: -17%;
+    margin-left: 46%;
+    color: white;
+    font-size: 18px;
+    width: 47%;
+    font-family: 'FontAwesome';
+}
+.activitylearn
+{
+    margin-top: -22%;
+    margin-right: 49%;
+}
+.badminton_info
+{
+    margin-left: 37%;
+    margin-top: 1%;
+    font-family: 'FontAwesome';
+}
+.badminton_subinfo
+{
+    margin-left: 10%;
+    width: 80%;
+    font-family: 'FontAwesome';
+    font-size: 17px;
+}
+.badminton_block1
+{
+    width:1344px;
+    height:400px;
+    background-color: rgba(128, 128, 128, 0.719);
+}
+.badminton_couch
+{
+    margin-top: 6%;
+    position: absolute;
+    margin-top: -19%;
+    color: white;
+    margin-left: 11%;
+    font-family: 'FontAwesome';
+}
+
+.badminton_Court
+{
+    width: 1300px;
+    height: 400px;
+    background-color: #7072763d;
+    margin-left: 2%;
+    margin-top: 5%
+}
+.badminton_seccourt
+{
+    width: 400px;
+    height: 400px;
+    background-color:rgb(79, 184, 79);
+    margin-left: 2%;
+    margin-top: 5%
+}
+.badminton_court_title
+{
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 46%;
+    color: black;
+    font-size: 49px;
+    font-family: 'FontAwesome';
+}
+.badminton_courts_subtitle
+{
+ position: absolute;
+margin-left: 38%;
+margin-top: 8%;
+color: green;
+font-family: initial;
+width: 51%;
+font-size: 18px
+}
+.badminton_topp
+{
+    position: absolute;
+    margin-left: 38%;
+    margin-top: 14%;
+    font-family: initial;
+    width: 51%;
+    font-size: 18px;
+}
+.col-md-12{
+position: relative;
+min-height: 1px;
+padding-right: 15px;
+padding-left: 15px;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+  } 
+  td, th {
+    border: 1px solid #737c7638;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f3f3f3;
+  }
+
+  tr:nth-child(odd) {
+    background-color:  #f3f3f3;
+    /* border: 1px solid #c0a4a4 */
+  }
+  .badminton_ourprices
+  {
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 43%;
+  }
+  .footer
+{
+    width: 1351px;
+    height: 365px;
+    background-color: darkslategrey;
+    margin-bottom: 15px;
+    margin-top: 62px;
+    margin-left: -4%;
+}
+.club-12{
+color: orange;
+padding: 38px;
+
+}
+.a12
+{
+    color: white;
+    width: 23%;
+    padding-left: 42px;
+    /* font-size: 21px */
+}
+.club-22
+{
+    color: orange;
+    margin-left: 40%;
+    margin-top: -215px;
+}
+.timer
+{
+    color: white;
+    margin-left: 540px;
+    margin-top: 33px;
+    font-size: 18px;
+}
+.twitter_about
+{
+    color: white;
+    margin-left: 71%;
+    margin-top: 22px;
+}
+.block-1
+{
+    width: 130px;
+    height: 73px;
+}
+.phone
+{
+    margin-top: -45px;
+    margin-left: 586%;
+}
+.add
+{
+    margin-left: 730%;
+    margin-top: -25px;
+    width: 155px;
+}
+.tt{
+    margin-left: 890%;
+    margin-top: -25px;
+    width: 170px;
+
+}
+.sportspirit
+{
+    padding-left: 37px;
+    padding-top: 4px;
+    font-family: math;
+}
+.slider_img{
+    width: 1321px;
+    height: 400px;
+    background-color: yellowgreen;
+    margin-top: 4%;
+    margin-left: 1%;
+}
+.slider_img1
+{
+    width: 1321px;
+    height: 400px;
+    background-color:yellowgreen;
+ 
+}

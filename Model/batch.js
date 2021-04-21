@@ -29,6 +29,10 @@ const BatchSchema = new Schema({
         type:String,
         required:true
     },
+    packagee:{
+        type:String,
+        required:true
+    },
     area:{                          //new
         type:String,
         required:true

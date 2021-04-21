@@ -2,6 +2,10 @@ import React from 'react';
 import Modal from 'react-modal';
 import '../Styles/header.css';
 import axios from 'axios';
+import '../Components/badminton.js';
+import { Link } from 'react-router-dom';
+
+
 
 
 
@@ -135,7 +139,16 @@ class Header extends React.Component{
     handleContact = () =>{
         this.props.history.push('/Contact');
     }
+    handleAbout = () =>{
+        this.props.history.push('/About');
+    }
+    handleActivity = () =>{
+        this.props.history.push('/Activity');
+    }
 
+    handleAdminlogin = () =>{
+        this.props.history.push('/Adminlogin');
+    }
     handleBatch = () =>{
         const {name,email,contact_number, batch_time, date,day,area,catagory} =this.state;
         const BatchObj = {
@@ -173,10 +186,12 @@ class Header extends React.Component{
         .catch(err=>console.log(err))
     }
    
+    
 
     render(){
         const {signUpModelIsOpen ,  loginModelIsOpen,batchModelOpen, email, pwd, FN, LN,name,contact_number,batch_time,date,day,area,catagory  } =this.state
         return(
+            
             <div style ={{width:'100%' ,height:'43px',    backgroundColor: 'darkolivegreen',color:'white'}}>
                 
 
@@ -186,6 +201,21 @@ class Header extends React.Component{
                 <button class="btn btn-outline-success btn-sm sign" onClick={this.batch} style={{color: 'white',marginTop: '-57px',marginLeft: '10px'}}><i>Batches</i></button>
                
                <a onClick={this.handleContact} href='Contact' className='cont'>Contact</a>
+               <a onClick={this.handleAbout} href='Aboutus' className='about'>About Us</a> 
+               {/* <a onClick={this.handleAdminlogin} href='Adminlogin' className='adminlogin'>Admin</a>          */}
+               <div class="dropdown">
+                  
+               <a className="activity">Activity </a>
+                        <div class="dropdown-content">
+                        <li><Link to="/Badminton">Badminton</Link></li>
+                        <li><Link to="/Swim">Swimming</Link></li>
+                        <li><Link to="/Gym">Gym</Link></li>
+                        <li><Link to="/Yoga">Yoga</Link></li>
+                        <li><Link to="/Tabletennis">Tabletennis</Link></li>
+                        <li><Link to="/Basketball">Basketball</Link></li>
+                        </div>
+                        </div> 
+
          <Modal
           isOpen={signUpModelIsOpen}
           style={customStyles}

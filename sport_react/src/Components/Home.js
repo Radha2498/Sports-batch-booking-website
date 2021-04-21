@@ -11,6 +11,8 @@ import logo2 from "../Images/logo-2.jpg"
 import logo3 from "../Images/logo-3.jpg"
 import logo4 from "../Images/logo-4.jpg"
 import logo5 from "../Images/logo-5.jpg"
+import 'video-react/dist/video-react.css';
+import { Player } from 'video-react';
 
 class Home extends React.Component{
     render(){
@@ -19,9 +21,9 @@ class Home extends React.Component{
                 <div>
             <div className="block-1">
             <h1 className="sportspirit">Sportspirit</h1>
-            <div className="phone"><span class="fa fa-mobile">+1425897555</span></div>
-            <div className="add"><span class="fa fa-map-marker"> 158 Avenues Street</span></div>
-            <div className="tt"><span class="fa fa-clock-o"> Mon - Sat 6:00 - 10:00</span></div>
+            {/* <div className="phone"><span class="fa fa-mobile">+91849384389</span></div>
+            <div className="add"><span class="fa fa-map-marker">Rambug colony Mumbai</span></div> */}
+            {/* <div className="tt"><span class="fa fa-clock-o"> Mon - Sat 6:00 - 10:00</span></div> */}
             </div>
             <img src= {Banner} height="700px"  width="1333px" />
             <div class="title">BEST PLACE TO PLAY</div>
@@ -52,7 +54,7 @@ class Home extends React.Component{
         <div class="block-2">
             <img src={img1}   height= "457px" />
             <h5 class="Choose">Why Choose Us</h5>
-            <div class="sec">Solaris, a chain of seven conveniently located, well-equipped sports and fitness clubs across Pune, is committed to provide quality sports facilities and personalised fitness programmes. We strive to bestow ‘Recreation – the Spice of Life’ on you because we consider Relaxation and Recreation as the route to a healthy body, a healthier mind and the healthiest society</div>
+            <div class="sec">Sportspirit, a chain of seven conveniently located, well-equipped sports and fitness clubs across Pune, is committed to provide quality sports facilities and personalised fitness programmes. We strive to bestow ‘Recreation – the Spice of Life’ on you because we consider Relaxation and Recreation as the route to a healthy body, a healthier mind and the healthiest society</div>
             </div>
 
 
@@ -84,7 +86,7 @@ class Home extends React.Component{
             </div>
             
             <div class="block-5">
-
+          
             </div>
 
             <div class="block-6">

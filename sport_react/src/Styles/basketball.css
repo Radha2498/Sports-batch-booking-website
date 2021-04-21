@@ -1,0 +1,43 @@
+.basketball_block1{
+    width: 1344px;
+height: 521px;
+background-color: rgba(128, 128, 128, 0.719);
+}
+.basket_info
+{color:black}
+
+.basketball_info
+{
+margin-left: 37%;
+margin-top: -2%;
+font-family: 'FontAwesome';
+}
+
+.basket_couch_block2
+{
+width: 777px;
+height: 213px;
+background-color: #81cccc2b;
+margin-top: -222px;
+position: absolute;
+margin-left: 14px;
+}
+.basket_background
+{
+    margin-left :"141%";
+    width: "117%";
+    color:"black";
+    margin-top:"17%"
+}
+.carousel_basket
+{
+position: absolute;
+color: white;
+font-family: initial;
+margin-top: -40%;
+margin-left: 15%;
+opacity: 0.3;
+font-weight: bolder;
+font-weight: 903;
+font-size: 69px
+}

@@ -1,0 +1,54 @@
+.tennis_firsttitle
+{
+    position: absolute;
+    margin-top: -23%;
+    margin-left: 20%;
+    color: white;
+    font-size: 65px;
+    font-family: 'FontAwesome';
+    opacity: 0.3
+}
+.tennis_subtitle
+{
+    position: absolute;
+    margin-top: -21%;
+    color: white;
+    font-size: 23px;
+    width: 47%;
+    margin-left: 24%;
+    font-family: initial;
+}
+.basket_btn{
+    margin-left: -5%;
+    margin-top: -27%;
+}
+.tennis_block1
+{
+width: 1283px;
+height: 400px;
+background-color: beige;
+}
+.tennis_court_title
+{
+    margin-top: -2%;
+    margin-left: 34%;
+    color: black;
+    font-size: 44px;
+    font-family: 'FontAwesome';
+}
+.tennis_img
+{
+position: absolute;
+width: 453px;
+height: 369px;
+margin-left: 2%;
+margin-top: 1%;
+}
+.tennis_couch_info
+{
+font-family: font-awsome;
+color: teal;
+padding-left: 41%;
+padding-top: 3%;
+font-size: 20px;
+}

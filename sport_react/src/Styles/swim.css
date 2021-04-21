@@ -1,0 +1,50 @@
+.swim_couch{
+    object-fit: contain;
+}
+
+.swim_couch
+{
+    height: 232px;
+    background-color: white;
+    margin-left: 3%;
+    margin-top: 5%;
+}
+.swim_court_title{
+position: absolute;
+margin-top: -1%;
+margin-left: 34%;
+color: black;
+font-size: 44px;
+font-family: 'FontAwesome'
+}
+.swim_couch_block1
+{
+    width: 363px;
+    height: 213px;
+    background-color: #81cccc2b;
+    margin-top: 62px;
+    position: absolute;
+    margin-left: 424px;
+}
+.swim_couch1
+{
+    height: 232px;
+    background-color: white;
+    margin-left: 787px;
+    margin-top: 54px;
+}
+.swim_couch_block2
+{
+    width: 363px;
+    height: 213px;
+    background-color: #81cccc2b;
+    margin-top: -509px;
+    position: absolute;
+    margin-left: 371px;
+}
+.swim_couch_info
+{
+    font-family: font-awsome;
+    color:teal;
+    padding-left: 9%;
+}

@@ -1,0 +1,171 @@
+
+.sport_club
+{
+    margin-left: 43%;
+    margin-top: 5%;
+}
+.sport_info{
+    width: 74%;
+    margin-left: 176px;
+    font-family: -webkit-body;
+    margin-top: 27px;
+}
+.about_block
+{
+    background-color: grey;
+    width:1300px;
+    height: 400px;  
+}
+.block_about
+{
+    width: 74%;
+    height: 300px;
+    background-color: yellowgreen;
+    margin-top: -26%;
+    position: absolute;
+    margin-left: 13%
+}
+.aboutus_Coaches{
+    margin-left: 30%;
+}
+.aboutus_bannertitle
+{
+    position: absolute;
+    margin-top: -23%;
+    margin-left: 51%;
+    color: white;
+    font-family: -webkit-pictograph;
+    font-size: 49px;
+}
+.about_subtitle
+{
+    position: absolute;
+    margin-top: -17%;
+    margin-left: 51%;
+    color: white;
+    font-family: -webkit-pictograph;
+    font-size: 17px;
+}
+.learn
+{
+    position: absolute;
+    margin-top: -12%;
+    margin-left: 51%;
+}
+.about_img
+{
+    object-fit: contain;
+    margin-top: 10%;
+}
+.about_block2
+{
+    background-color: #1b3353;
+    width: 533px;
+    height: 349px;
+    margin-left: 50%;
+    margin-top: -28%;
+    
+}
+.about_welcome{
+    color: white;
+    font-weight: 700;
+    position: absolute;
+    margin-left: 15%;
+    padding-top: 2%;
+}
+.about_sports
+{
+    color: green;
+    padding-top: 19%;
+    margin-left: 40%;
+
+}
+.about_info{
+    color: white;
+    margin-left: 29%;
+}
+.testimonial_img{
+    object-fit: contain;
+}
+.footer
+{
+    width: 1341px;
+    height: 365px;
+    background-color: darkslategrey;
+    margin-bottom: 35px;
+    margin-top: 62px;
+    margin-left: 0%;
+}
+.club-12{
+color: orange;
+padding: 38px;
+
+}
+.a12
+{
+    color: white;
+    width: 23%;
+    padding-left: 42px;
+    /* font-size: 21px */
+}
+.club-22
+{
+    color: orange;
+    margin-left: 40%;
+    margin-top: -215px;
+}
+.timer
+{
+    color: white;
+    margin-left: 540px;
+    margin-top: 33px;
+    font-size: 18px;
+}
+.twitter_about
+{
+    color: white;
+    margin-left: 71%;
+    margin-top: 22px;
+}
+.block-1
+{
+    width: 130px;
+    height: 73px;
+}
+.phone
+{
+    margin-top: -45px;
+    margin-left: 586%;
+}
+.add
+{
+    margin-left: 730%;
+    margin-top: -25px;
+    width: 155px;
+}
+.tt{
+    margin-left: 890%;
+    margin-top: -25px;
+    width: 170px;
+
+}
+.sportspirit
+{
+    padding-left: 37px;
+    padding-top: 4px;
+    font-family: math;
+}
+.slider_img{
+    width: 1321px;
+    height: 400px;
+    background-color: yellowgreen;
+    margin-top: 4%;
+    margin-left: 1%;
+}
+.slider_img1
+{
+    width: 1321px;
+    height: 400px;
+    background-color:yellowgreen;
+ 
+}

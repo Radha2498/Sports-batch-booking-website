@@ -57,24 +57,24 @@ class Contact extends React.Component{
            
            <div className="block-1">
             <h1 className="sportspirit" onClick={this.handleNavigate}>Sportspirit</h1>
-            <div className="ph"><span class="fa fa-mobile">+1425897555</span></div>
+            {/* <div className="ph"><span class="fa fa-mobile">+1425897555</span></div>
             <div className="ad"><span class="fa fa-map-marker"> 158 Avenues Street</span></div>
-            <div className="t"><span class="fa fa-clock-o"> Mon - Sat 6:00 - 10:00</span></div>
+            <div className="t"><span class="fa fa-clock-o"> Mon - Sat 6:00 - 10:00</span></div> */}
             </div>
 
 
 
-            <img src= {Banner} height="348px"  width="1333px" />
+            <img src= {Banner} height=" 526px"  width="1333px" />
             {/* <div className="boxx"></div> */}
 
             <img src= {capture} className='map' height="348px"  width="1333px" />
 
             <div style={{    marginLeft: '54%',color:'grey',    marginTop: ' -33%'}}>
             <h5>Contact Info</h5>
-            <div style={{    marginTop: '11px'}}><span class="fa fa-map-marker">        158 Avenues Street New York, NY-90814</span></div>
-            <div style={{    marginTop: '11px'}}><span class="fa fa-clock-o">            Mon - Sat 8.00 - 18.00 Sunday</span></div>
+            <div style={{    marginTop: '11px'}}><span class="fa fa-map-marker"> Rambug Colony kothrud, Pune</span></div>
+            <div style={{    marginTop: '11px'}}><span class="fa fa-clock-o"> Mon - Sat 8.00 - 18.00 Sunday</span></div>
             <div style={{    marginTop: '11px'}}><span class="fa fa-envelope"><a href='@example.com'>@example.com</a></span></div>
-            <div style={{    marginTop: '11px'}}><span class="fa fa-mobile">           +1-800-999-800</span></div>
+            <div style={{    marginTop: '11px'}}><span class="fa fa-mobile">+918344834889</span></div>
 
             </div>
             <div><span> </span><input type ="text"     value={uname} placeholder="Name"    class="form-control"  style={{height:'48px',width:'256px',    marginTop: '11px',      marginLeft: '720px'}}    onChange={(event) => this.handleChange(event ,'uname')} /></div>
